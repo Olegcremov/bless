@@ -1,0 +1,62 @@
+
+
+.py-2{
+	color: black;
+	
+
+}
+.back{
+	width: 100%;
+	height: 100vh;
+	background-image: url("fon.jpg") ;
+	
+}
+.suck{
+	align-items: center;
+}
+body{
+	margin: 0;
+	padding: 0;
+	font-family: 'Staatliches', cursive;
+}
+.cocksucker h1 {
+text-align: center;
+font-size: 80px;
+}
+.nav-link {
+	font-size: 30px;
+}
+.tovary
+.piska{
+border: 10px solid;
+
+
+}
+img {
+	max-width: 100%;
+	max-height: auto;
+}
+.text {
+	font-size: 40px;
+	text-align: center;
+	margin: 0;
+}
+.text2 {	
+	font-size: 20px;
+	text-align: center;
+	margin: 0;
+}
+.navbar {
+background-image: url(web.png);
+width: 100%;
+
+
+}
+.foot {
+	background-color: black;
+	font-color: gray;
+}
+.form {	
+padding: 100px;
+
+}
