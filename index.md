@@ -1,1 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	<link href="https://fonts.googleapis.com/css?family=Staatliches&display=swap" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="css.css">
+	<title>shop.B'LESS</title>
+	<meta charset="utf-8">
 
+</head>
+<body>
+
+
+<header class="sus"><nav class="navbar navbar-expand-lg navbar-light bg-light ">
+
+
+<a class="navbar-brand" href="#"><img src="css.png"></a> 
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"> 
+<span class="navbar-toggler-icon"></span> 
+</button> 
+<div class="collapse navbar-collapse" id="navbarNav"> 
+<ul class="navbar-nav"> 
+<li class="nav-item"> 
+<a class="nav-link disabled" href="#">Shop</a> 
+</li> 
+<li class="nav-item"> 
+<a class="nav-link" href="cart.html">Order</a> 
+</li> 
+<li class="nav-item"> 
+<a class="nav-link" class="instagram" href="http://instagram.com/rainwrlddd/">Instagram
+</a> 
+</li> 
+
+</ul> 
+</div> 
+</nav></header>
+<main class="back">
+	<section class="cocksucker container"><h1>B'LESS DROP F/W 2019</h1>
+	<div class="tovary row">
+	<div class="tovary_item col-xl-4 col-lg-5 col-md-6" ><div class="piska"><img src="balaclava1.png" alt=""></div><p class="text">SHINEDROPS BALACLAVA</p>
+<p class="text2"> ONE SIZE</p>
+<p class="text2">20$</p>
+
+
+
+</div>
+	<div class="tovary_item col-xl-4 col-lg-5 col-md-6" ><div class="piska"><img src="hod4.jpg" alt=""></div><p class="text">VENOM HOODIE</p>
+<p class="text2">XL/2XL</p>
+<p class="text2">40$</p>
+
+
+
+</div>
+	<div class="tovary_item col-xl-4 col-lg-5 col-md-6" ><div class="piska"><img src="1.jpg" alt=""></div><p class="text">WEB MONARCH</p>
+	<p class="text2">40-46</p>
+<p class="text2">110$</p>
+
+
+</div>
+	<div class="tovary_item col-xl-4 col-lg-5 col-md-6" ></div>
+	<div class="tovary_item col-xl-4 col-lg-5 col-md-6" ></div>
+	<div class="tovary_item col-xl-4 col-lg-5 col-md-6" ></div>
+</div>
+
+
+
+</section>
+</main>
+
+<footer class="foot">
+	<h2>LICENSED 2019 B'LESS PRODUCTS ALL RIGHTS RESERVED</h2>
+</footer>
+</body>
+</html>
